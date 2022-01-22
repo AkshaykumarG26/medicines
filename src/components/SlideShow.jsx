@@ -35,7 +35,7 @@ export const Slideshow = () => {
           <div className="each-slide">
             <img
               src={slideImage.url}
-              alt="xyz"
+              alt={slideImage.caption}
               className={slideImage.className}
               style={{ width: "100%" }}
             />

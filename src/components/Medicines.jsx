@@ -254,9 +254,7 @@ export const Medicines = () => {
       </div>
       <br />
       <br />
-      <div>
-        <h3>What our users have to say</h3>
-      </div>
+      
     </div>
   );
 };
